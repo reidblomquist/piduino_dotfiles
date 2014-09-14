@@ -1,0 +1,14 @@
+/home/pi/.vim
+/home/pi/.zprezto
+/home/pi/.java
+/home/pi/.arduino
+/home/pi/.viminfo
+/home/pi/.vimrc
+/home/pi/.zshrc
+/home/pi/.zshenv
+/home/pi/.zprofile
+/home/pi/.zlogout
+/home/pi/.zlogin
+/home/pi/.zpreztorc
+/home/pi/.bashrc
+/home/pi/.profile

@@ -1,0 +1,1 @@
+/home/pi/.zprezto/runcoms/zshrc
